@@ -82,7 +82,7 @@ const stateHookForm = () => {
             <option value="2" className="op-2">
               Boy
             </option>
-            <option value="3" className="op-3">
+            <option value="3" className="op-4">
               Kid
             </option>
           </select>
